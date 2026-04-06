@@ -152,7 +152,7 @@ export default function FinanceDashboard() {
               <IndianRupee className="text-white" size={20} />
             </div>
             <div>
-              <h1 className="text-lg font-black tracking-tighter leading-none">RUPEE-DASH</h1>
+              <h1 className="text-lg font-black tracking-tighter leading-none">FINANCE-DASH</h1>
               <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">Fintech v2.0</span>
             </div>
           </div>
